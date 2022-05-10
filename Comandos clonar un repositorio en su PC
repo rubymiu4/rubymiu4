@@ -1,0 +1,5 @@
+d:
+cd "DESARROLLO 2022"
+dir
+git clone https://github.com/davidmp/FundamentosP2022-G1.git
+doskey /history
